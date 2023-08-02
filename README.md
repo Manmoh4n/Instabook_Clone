@@ -8,7 +8,6 @@ Project is deployed on render.
 
 https://insta-book-app.onrender.com/#/login
 
-**Server:** https://github.com/neerabhjha/inta-book-server
 
 
 
